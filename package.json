@@ -5,8 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "sync": "aws s3 sync . s3://samaha.schism.assets"
+    "sync": "aws s3 sync . s3://samaha.schism.assets",
+    "prepare": "husky install",
+    "scriptname": "husky install"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^8.0.1"
+  }
 }
