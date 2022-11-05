@@ -1,0 +1,12 @@
+{
+  "name": "schism-assets",
+  "version": "1.0.0",
+  "description": "asset development environment for schism",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sync": "aws s3 sync . s3://samaha.schism.assets"
+  },
+  "author": "",
+  "license": "ISC"
+}
