@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-aws s3 sync . s3://samaha.schism.assets --exclude \".git\"
+aws s3 sync . s3://samaha.schism.assets --exclude \".git/*\"
