@@ -1,5 +1,6 @@
 *.blend*
 *.glb
+*.xcf
 
 ### Images ###
 # JPEG
