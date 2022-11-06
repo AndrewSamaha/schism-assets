@@ -1,13 +1,11 @@
 # schism-assets
 Development environment for schism assets
 
-- Assets such as blender and texture files are synced to S3 with `npm run sync`
+- Assets such as blender and texture files are synced to S3 with `npm run s3pull` and `npm run s3push`
 - .gitignore contains some model definition file types and image files (generated from https://www.toptal.com/developers/gitignore/api/images)
 
 # UI Standards
 ### Action Button Specification
-![Default Image](buildings/tower.1/CreateTower.png)
-![OnHover Image](./buildings/tower.1/CreateTower_hover.png)
 - Size: 64x64 PNG
 - Filenames: Pascal Case, e.g., ActionName.png, ActionName_hover.png
 - Default: grayscale
