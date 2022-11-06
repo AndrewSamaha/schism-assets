@@ -6,6 +6,8 @@ Development environment for schism assets
 
 # UI Standards
 ### Action Button Specification
+![Default Image](buildings/tower.1/CreateTower.png)
+![OnHover Image](./buildings/tower.1/CreateTower_hover.png)
 - Size: 64x64 PNG
 - Filenames: Pascal Case, e.g., ActionName.png, ActionName_hover.png
 - Default: grayscale
@@ -13,3 +15,4 @@ Development environment for schism assets
 - How to add bevel (GIMP):
     - Filters > Decor > Add Bevel
     - Thickness: 5px (this is usually the default)
+
