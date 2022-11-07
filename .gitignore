@@ -3,6 +3,8 @@
 *.gltf
 *.xcf
 
+node_modules/
+
 ### Images ###
 # JPEG
 *.jpg
