@@ -5,9 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install",
+    "manifest": "find -type f ! -path \"./node_modules/*\" ! -path \"./.*/*\" -exec md5sum \"{}\" + > manifest.txt",
     "s3push": "aws s3 sync . s3://samaha.schism.assets --exclude \".git/*\" --exclude \"node_modules/*\"",
     "s3pull": "aws s3 sync s3://samaha.schism.assets . --exclude \".git/*\" --exclude \"node_modules/*\"",
-    "prepare": "husky install",
     "scriptname": "husky install"
   },
   "author": "",
