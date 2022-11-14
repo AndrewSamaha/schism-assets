@@ -11,7 +11,7 @@ Development environment for schism assets
 # Workflow
 1. Create asset in blender
 2. Bake your procedural textures (e.g., https://www.youtube.com/watch?v=x4mySebugl0 )
-3. Export as gltf
+3. Export as GLFT embedded. Be intentional about the settings under **Include** and **Transform**. In most cases, you will probably need to *uncheck* **+Y Up**.
 4. Use gltfjsx to create a JS component, e.g., `npx gltfjsx Tower3Baked.gltf` -> produces a file named `Tower3Baked.js`
 5. Edit Tower3Baked.js to change the name of the component from `Model` to whatever (e.g., `Tower3`) and adjust any scale or rotations as needed
 6. Copy the gltf to schism-ui/public and the js to a suitable component folder
