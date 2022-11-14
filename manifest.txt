@@ -1,8 +1,8 @@
 f40b3f00ba65505318a75ab1b8ab7e9f  ./character/TestOrc/testOrc.blend
-eb954a7196c94df6cf9f6c5578a9df91  ./character/TestHuman/TestHuman2.blend
+0ca1447c7152c8e0c6267fcac8d3907c  ./character/TestHuman/TestHuman2.blend
 e62e03995db1452ddbbfb76993bcd2c0  ./character/TestHuman/TestHuman.blend1
 ef9a90a071b92f24a76095b591b9cefb  ./character/TestHuman/TestHuman.blend
-0189012b90c33ee182563264fde63477  ./character/TestHuman/TestHuman2.blend1
+eb954a7196c94df6cf9f6c5578a9df91  ./character/TestHuman/TestHuman2.blend1
 f5f13eba2a3d4ce3437893642f7bc346  ./character/reference/orc-holding-ax-cartoon-character_1308-114282.webp
 0783dd6e968dafb17dedc8d82f645352  ./character/reference/orc-holding-ax-cartoon-character_1308-114282.png
 33b61db9284da4384393ecdb784fca80  ./README.md
@@ -14,7 +14,7 @@ da2d771fa3dced61dc9480c8e89ab2c1  ./blender/towers/tower1.png
 618d1feadd422b8dd9f502572cfc53c4  ./blender/towers/towersTest.blend
 9fd2222e8baff10a077297addbd92f9d  ./blender/towers/tower.1.glb
 835cb64ac10910d42da18b29edcb0b10  ./package-lock.json
-42d31562b68e88272d8873f12aa365ec  ./manifest.txt
+9d9d17496c023ae58fbaa77c1f292826  ./manifest.txt
 2dde4af4f4b3a51e2a6bee56d57daa1b  ./ui/assetPrimitives/Buttons/MoveEntity.xcf
 9e119ed0df55becff7243ab22337ab3a  ./ui/assetPrimitives/Buttons/arrow.jpeg
 9a43a6855752dcb0b999c3ef1882467d  ./textures/weirdtexture.png
