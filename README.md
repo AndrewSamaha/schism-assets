@@ -16,6 +16,9 @@ Development environment for schism assets
 5. Edit Tower3Baked.js to change the name of the component from `Model` to whatever (e.g., `Tower3`) and adjust any scale or rotations as needed
 6. Copy the gltf to schism-ui/public and the js to a suitable component folder
 
+# Some Common Entity Dimensions
+- Human - 1 m high
+
 # UI Standards
 ### Action Button Specification
 - Size: 64x64 PNG
