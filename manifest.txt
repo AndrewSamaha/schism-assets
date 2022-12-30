@@ -51,6 +51,7 @@ a6b7c35d93fc5dc04fc4ba72b4afd23c  ./textures/castle-gate-wood2.png
 a67ed8dc47b6aa3535b3401d6e69e249  ./textures/medieval-stone-wall-5.webp
 30b920501295ee549bab3326ad7e2749  ./buildings/base/base.blend1
 cf041f09457ce72ebdb8c328149b9722  ./buildings/base/base.blend
+1de161b5dda69f6567039d36a21b577e  ./buildings/base/Base.js
 403db69518b68bed26d5f43905b2cba9  ./buildings/base/base.gltf
 31125d676b64a7140839c5a053ca1ffe  ./buildings/test/Test.blend
 d36bef2cbe45ba31869d163edb5113a6  ./buildings/test/Test.glb
