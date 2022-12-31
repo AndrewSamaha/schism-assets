@@ -19,7 +19,9 @@ da2d771fa3dced61dc9480c8e89ab2c1  ./blender/towers/tower1.png
 9fd2222e8baff10a077297addbd92f9d  ./blender/towers/tower.1.glb
 835cb64ac10910d42da18b29edcb0b10  ./package-lock.json
 775eb591ef877f8a0adc77419ed425b0  ./manifest.txt
+721ecfd5e87d72a55b759f8409f765ab  ./ui/assetPrimitives/Buttons/createBase_hover.png
 2dde4af4f4b3a51e2a6bee56d57daa1b  ./ui/assetPrimitives/Buttons/MoveEntity.xcf
+32125fdc63308b09384d029e34955e20  ./ui/assetPrimitives/Buttons/createBase.png
 9e119ed0df55becff7243ab22337ab3a  ./ui/assetPrimitives/Buttons/arrow.jpeg
 4a972cf31f43a9f02588e8cc63c082c4  ./textures/cobblestone-wall-1.webp
 f8d0ca1b7ee04e0a87009ffba4227b9d  ./textures/medieval-stone-wall-2.webp
@@ -50,7 +52,10 @@ a6b7c35d93fc5dc04fc4ba72b4afd23c  ./textures/castle-gate-wood2.png
 3106558d03b89649a3df5c8c5724d87c  ./textures/castle-gate-2.webp
 a67ed8dc47b6aa3535b3401d6e69e249  ./textures/medieval-stone-wall-5.webp
 30b920501295ee549bab3326ad7e2749  ./buildings/base/base.blend1
+1e675495960df3760e776b234ca3e6ff  ./buildings/base/base.baked.gltf
 cf041f09457ce72ebdb8c328149b9722  ./buildings/base/base.blend
+885813db518d3175a6d8efd2b5b2da17  ./buildings/base/basebb.bbmodel
+4331c54a133f7a7d20135b37fe7f5542  ./buildings/base/basebb.gltf
 1de161b5dda69f6567039d36a21b577e  ./buildings/base/Base.js
 403db69518b68bed26d5f43905b2cba9  ./buildings/base/base.gltf
 31125d676b64a7140839c5a053ca1ffe  ./buildings/test/Test.blend
@@ -85,8 +90,14 @@ e04fe3f9e0af047ff76ee41482ed6e0e  ./buildings/tower.1/blender/TowerBrickTwo.png
 3965458647fd26b504deaac4933462c2  ./buildings/tower.1/blender/Tower3Baked.js
 48f61217390b1210344c6e3940c5baaf  ./buildings/tower.1/tower1_actionbutton.xcf
 c71f4c69e34273712da388acedc62308  ./buildings/tower.1/CreateTower.png
+21ef3ca4fc3ce5b709793ba286c1bec0  ./resources/wood/resourceWood.gltf
+84216b43b259d43fbbf458824b0a41ea  ./resources/wood/resourceWood.bbmodel
+bb7052ffd937fd57b5df0ccdb17e4971  ./resources/gold/resourceGold.gltf
 85be75b6bc7b2023fb6fb2d6124a8faa  ./resources/gold/iron2.unbaked.blend1
+668e41f9bc262d0dcd88231be6d211c7  ./resources/gold/resourceGold.bbmodel
 93934d951b6506df5c249677193db203  ./resources/gold/gold2.unbaked.blend
 7e8e9ceef205ec37cb12765b2a3ac67c  ./resources/gold/gold.unbaked.blend
 af010ed73240e50ca21d950e0b7e5e1a  ./resources/gold/iron2.unbaked.blend
+4e25bc89da9e5c9fd087db2a69cdf656  ./resources/iron/resourceIron.bbmodel
 5559bbc7f4f67c8e8c2d88d75a8cd575  ./resources/iron/iron2.unbaked.glb
+554cd7b45b8239bfbef8d04060c0d7c4  ./resources/iron/resourceIron.gltf
