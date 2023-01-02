@@ -9,14 +9,18 @@
     "manifest": "find -type f ! -path \"./node_modules/*\" ! -path \"./.*/*\" -exec md5sum \"{}\" + > manifest.txt",
     "s3push": "aws s3 sync . s3://samaha.schism.assets --exclude \".git/*\" --exclude \"node_modules/*\"",
     "s3pull": "aws s3 sync s3://samaha.schism.assets . --exclude \".git/*\" --exclude \"node_modules/*\"",
-    "scriptname": "husky install"
+    "scriptname": "husky install",
+    "stage:assets": "node ./scripts/stageAssets.js"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "eslint": "^8.31.0",
     "husky": "^8.0.1"
   },
   "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs-extra": "^11.1.0",
     "gltfjsx": "^5.0.2"
   }
 }
