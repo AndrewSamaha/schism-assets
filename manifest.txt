@@ -3,6 +3,7 @@ d41d8cd98f00b204e9800998ecf8427e  ./manifest.txt
 7b8065f76f15dbcd812e9b25977c4ab7  ./staging/assets/character/TestHuman/TestHuman.gltf
 554cd7b45b8239bfbef8d04060c0d7c4  ./staging/assets/resources/iron/resourceIron.gltf
 bb7052ffd937fd57b5df0ccdb17e4971  ./staging/assets/resources/gold/resourceGold.gltf
+bfcc796afc83a070b93e8f85e84d7084  ./staging/assets/resources/food/resourceFarm.gltf
 21ef3ca4fc3ce5b709793ba286c1bec0  ./staging/assets/resources/wood/resourceWood.gltf
 089834b2f3cc60b1f152229ecf9c8d3b  ./staging/assets/textures/cobblestone-wall-3.png
 2c7c92b280f156b2d9ebf7d89307e2fb  ./staging/assets/textures/cobblestone-wall-4.png
@@ -65,6 +66,9 @@ bc230113afbff3cec9bede6a0928230f  ./dev/assets/resources/food/resourceFarm.bbmod
 84216b43b259d43fbbf458824b0a41ea  ./dev/assets/resources/wood/resourceWood.bbmodel
 568bc6e1e7e01372bf16e726b4dcd7cf  ./dev/assets/textures/cobblestone-wall-2.webp
 f8d0ca1b7ee04e0a87009ffba4227b9d  ./dev/assets/textures/medieval-stone-wall-2.webp
+b9bb00de1e84232f8d913087c4dc8c7c  ./dev/assets/textures/terrain/omnibus.xcf
+a4b640e59e48ee8911d36f507a12b84f  ./dev/assets/textures/terrain/water1.jpg
+d44f707fc8d8de733bb084dca9eb80c2  ./dev/assets/textures/terrain/land.jpg
 aebfecda61df2b351619c98bce68721c  ./dev/assets/textures/cobblestone-wall-5.webp
 54b07f9242144ecf95246949ae75a6b0  ./dev/assets/textures/medieval-stone-wall-3.webp
 0a48d2032bab6a68e2191b79fbe938ae  ./dev/assets/textures/castle-gate
