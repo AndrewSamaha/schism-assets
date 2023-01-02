@@ -8,7 +8,23 @@ Development environment for schism assets
 1. Dependencies (gltjsx) requires node 16, see: https://github.com/pmndrs/gltfjsx/issues/149
 2. `npm i`
 
-# Workflow
+# Repo Layout
+- root
+    - dev
+        - assets
+            - buildings
+                - base
+                    - base.blend / base.bbmodel
+                    - base.gltf
+                    - createBase.png
+                    - createBase_hover.png
+            - character
+            - resources
+            - textures
+            - ui
+  - staging (created with `npm run stage:assets`)
+
+# Blender Workflow
 1. Create asset in blender
 2. Bake your procedural textures (e.g., https://www.youtube.com/watch?v=x4mySebugl0 )
     1. Create a working UV map
