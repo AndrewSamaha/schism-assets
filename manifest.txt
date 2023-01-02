@@ -32,6 +32,11 @@ c71f4c69e34273712da388acedc62308  ./staging/assets/buildings/tower/tower.2/Creat
 5cd35d964c0b829e0e680793523c47fc  ./scripts/stageAssets.js
 affbdf8a1ea3a76fbc00ea16e2d88ffb  ./README.md
 2c6abb8cd668b0476f992c44576efbae  ./package.json
+106989358faee3639d632b4d3e9f4687  ./blender/towers/tower.1.blend
+9fd2222e8baff10a077297addbd92f9d  ./blender/towers/tower.1.glb
+da2d771fa3dced61dc9480c8e89ab2c1  ./blender/towers/tower1.png
+8e013b23095b901d0636f2e7bbe8a3b7  ./blender/towers/tower.1.blend1
+618d1feadd422b8dd9f502572cfc53c4  ./blender/towers/towersTest.blend
 b8513375ded4c7275b850d383d5e2418  ./package-lock.json
 cf786fd95716fb3d097cd2bc1f43d662  ./.gitignore
 0783dd6e968dafb17dedc8d82f645352  ./dev/assets/character/reference/orc-holding-ax-cartoon-character_1308-114282.png
@@ -54,6 +59,7 @@ af010ed73240e50ca21d950e0b7e5e1a  ./dev/assets/resources/gold/iron2.unbaked.blen
 bb7052ffd937fd57b5df0ccdb17e4971  ./dev/assets/resources/gold/resourceGold.gltf
 85be75b6bc7b2023fb6fb2d6124a8faa  ./dev/assets/resources/gold/iron2.unbaked.blend1
 668e41f9bc262d0dcd88231be6d211c7  ./dev/assets/resources/gold/resourceGold.bbmodel
+bfcc796afc83a070b93e8f85e84d7084  ./dev/assets/resources/food/resourceFarm.gltf
 bc230113afbff3cec9bede6a0928230f  ./dev/assets/resources/food/resourceFarm.bbmodel
 21ef3ca4fc3ce5b709793ba286c1bec0  ./dev/assets/resources/wood/resourceWood.gltf
 84216b43b259d43fbbf458824b0a41ea  ./dev/assets/resources/wood/resourceWood.bbmodel
@@ -128,3 +134,7 @@ c71f4c69e34273712da388acedc62308  ./dev/assets/buildings/tower/tower.2/CreateTow
 721ecfd5e87d72a55b759f8409f765ab  ./dev/assets/ui/assetPrimitives/Buttons/createBase_hover.png
 9e119ed0df55becff7243ab22337ab3a  ./dev/assets/ui/assetPrimitives/Buttons/arrow.jpeg
 32125fdc63308b09384d029e34955e20  ./dev/assets/ui/assetPrimitives/Buttons/createBase.png
+2dde4af4f4b3a51e2a6bee56d57daa1b  ./ui/assetPrimitives/Buttons/MoveEntity.xcf
+721ecfd5e87d72a55b759f8409f765ab  ./ui/assetPrimitives/Buttons/createBase_hover.png
+9e119ed0df55becff7243ab22337ab3a  ./ui/assetPrimitives/Buttons/arrow.jpeg
+32125fdc63308b09384d029e34955e20  ./ui/assetPrimitives/Buttons/createBase.png
