@@ -8,7 +8,8 @@ const STAGING_FOLDER = './staging/assets';
 
 const fileExtensionsToCopy = [
     '.gltf',
-    '.png'
+    '.png',
+    '.ttf'
 ]
 
 const foldersToCopy = [
@@ -16,7 +17,8 @@ const foldersToCopy = [
     'character',
     'resources',
     'textures',
-    'ui'
+    'ui',
+    'fonts'
 ]
 
 const filterFunc = (src, dest) => {
