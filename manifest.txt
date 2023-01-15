@@ -171,6 +171,11 @@ c71f4c69e34273712da388acedc62308  ./dev/assets/buildings/tower/tower.2/CreateTow
 2ec38b435ee78efaaa3b95962111be3a  ./dev/assets/buildings/tower/tower.2/CreateTower_hover.png
 00cb25eb707516fd98cf582dfc760173  ./dev/assets/buildings/tower/tower.2/Tower3BakedTextures.blend
 48f61217390b1210344c6e3940c5baaf  ./dev/assets/buildings/tower/tower.2/tower1_actionbutton.xcf
+3d61fe448b1208995b2adb5c67991c43  ./dev/assets/ui/assetPrimitives/PlayPage/GradientBorders.xcf
+db85c84dc71e19fa27dadf7f81124a34  ./dev/assets/ui/assetPrimitives/PlayPage/GradientBorder_right.xcf
+c18a03fa486d6a37f61e2965ed511847  ./dev/assets/ui/assetPrimitives/PlayPage/GradientBorder_right.png
+c0e4b4a154d7be25b1a85e9214cc636f  ./dev/assets/ui/assetPrimitives/PlayPage/GradientBorder_left.xcf
+b8d31cbabc87e2a1a5f69e53fe81bbb0  ./dev/assets/ui/assetPrimitives/PlayPage/GradientBorder_left.png
 2dde4af4f4b3a51e2a6bee56d57daa1b  ./dev/assets/ui/assetPrimitives/Buttons/MoveEntity.xcf
 721ecfd5e87d72a55b759f8409f765ab  ./dev/assets/ui/assetPrimitives/Buttons/createBase_hover.png
 9e119ed0df55becff7243ab22337ab3a  ./dev/assets/ui/assetPrimitives/Buttons/arrow.jpeg
